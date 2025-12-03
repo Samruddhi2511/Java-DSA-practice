@@ -1,0 +1,11 @@
+class Demo_002
+{
+    public static void main(String args[])
+    {
+        Double d= new Double(12.75);
+
+        double dva1=d.doubleValue();
+
+        System.out.println();
+    }
+}

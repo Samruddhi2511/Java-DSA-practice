@@ -1,0 +1,22 @@
+Class Demo
+{
+   int a;
+   static int b;
+   void fun()
+   {
+     System.out.println("demo static fun"+a+b);
+   }
+   static void gun()
+   {
+     System.out.println("demo static gun"+a+b);
+
+   }
+
+   public static void main(String args[])
+  {
+   //Demo.fun();
+  // Demo.gun();
+
+  }
+
+}
